@@ -1,0 +1,23 @@
+{
+  "name": "augmented-sofas",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "./ngrok http 3000"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/godo13405/augmented-sofas.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/godo13405/augmented-sofas/issues"
+  },
+  "homepage": "https://github.com/godo13405/augmented-sofas#readme",
+  "dependencies": {
+    "aframe": "^0.9.0"
+  }
+}

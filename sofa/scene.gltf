@@ -1,0 +1,530 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 3050,
+      "max": [
+        146.72315979003906,
+        52.240653991699219,
+        142.46504211425781
+      ],
+      "min": [
+        -0.44188380241394043,
+        -43.323028564453125,
+        10.041046142578125
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 36600,
+      "componentType": 5126,
+      "count": 3050,
+      "max": [
+        1,
+        1,
+        1
+      ],
+      "min": [
+        -0.99998098611831665,
+        -1,
+        -1
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 3050,
+      "max": [
+        0.99998146295547485,
+        0.9999687671661377,
+        0.9999815821647644,
+        1
+      ],
+      "min": [
+        -0.99999916553497314,
+        -0.99213194847106934,
+        -0.99725914001464844,
+        -1
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 3050,
+      "max": [
+        1.0026001930236816,
+        0.98814213275909424
+      ],
+      "min": [
+        0.0016680322587490082,
+        0.0019999789074063301
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 14964,
+      "max": [
+        3049
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 73200,
+      "componentType": 5126,
+      "count": 962,
+      "max": [
+        1.9892187118530273,
+        2.4943132400512695,
+        1.5810925960540771
+      ],
+      "min": [
+        -2.3851661682128906,
+        -2.4943132400512695,
+        -1.283841609954834
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 84744,
+      "componentType": 5126,
+      "count": 962,
+      "max": [
+        1,
+        1,
+        0.9999845027923584
+      ],
+      "min": [
+        -1,
+        -1,
+        -1
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 48800,
+      "componentType": 5126,
+      "count": 962,
+      "max": [
+        0.99776804447174072,
+        0.71935999393463135,
+        0.99992126226425171,
+        -1
+      ],
+      "min": [
+        -0.99998503923416138,
+        -0.99643099308013916,
+        -0.99997121095657349,
+        -1
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 24400,
+      "componentType": 5126,
+      "count": 962,
+      "max": [
+        0.99799990653991699,
+        0.80314701795578003
+      ],
+      "min": [
+        0.0020000000949949026,
+        0.0020000000949949026
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 59856,
+      "componentType": 5125,
+      "count": 3372,
+      "max": [
+        961
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "anndree_1000 (https://sketchfab.com/anndree_1000)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/models/33401c61c8d64050b3665332df618682",
+      "title": "Sofa Orange"
+    },
+    "generator": "Sketchfab-3.19.6",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 73344,
+      "byteOffset": 0,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 32096,
+      "byteOffset": 73344,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 96288,
+      "byteOffset": 105440,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 64192,
+      "byteOffset": 201728,
+      "byteStride": 16,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 265920,
+      "uri": "scene.bin"
+    }
+  ],
+  "images": [
+    {
+      "uri": "textures/cojinmueble_modernoDefault_Fabric_FRONT_6912_normal.png"
+    },
+    {
+      "uri": "textures/cojinmueble_modernoDefault_Fabric_FRONT_6912_metallicRoughness.png"
+    },
+    {
+      "uri": "textures/cojinmueble_modernoDefault_Fabric_FRONT_6912_baseColor.png"
+    },
+    {
+      "uri": "textures/Material_25_normal.png"
+    },
+    {
+      "uri": "textures/Material_25_metallicRoughness.png"
+    },
+    {
+      "uri": "textures/Material_25_baseColor.png"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "emissiveFactor": [
+        0,
+        0,
+        0
+      ],
+      "name": "cojinmueble_modernoDefault_Fabric_FRONT_6912",
+      "normalTexture": {
+        "index": 0,
+        "scale": 0.53830030490000003,
+        "texCoord": 0
+      },
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "baseColorTexture": {
+          "index": 2,
+          "texCoord": 0
+        },
+        "metallicFactor": 1,
+        "metallicRoughnessTexture": {
+          "index": 1,
+          "texCoord": 0
+        },
+        "roughnessFactor": 1
+      }
+    },
+    {
+      "doubleSided": true,
+      "emissiveFactor": [
+        0,
+        0,
+        0
+      ],
+      "name": "Material_25",
+      "normalTexture": {
+        "index": 3,
+        "scale": 0.73951981710000003,
+        "texCoord": 0
+      },
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "baseColorTexture": {
+          "index": 5,
+          "texCoord": 0
+        },
+        "metallicFactor": 1,
+        "metallicRoughnessTexture": {
+          "index": 4,
+          "texCoord": 0
+        },
+        "roughnessFactor": 1
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Box011__cojinmueble modernoDefault_Fabric_FRONT_6912_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TANGENT": 2,
+            "TEXCOORD_0": 3
+          },
+          "indices": 4,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Box013_Material #25_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 6,
+            "POSITION": 5,
+            "TANGENT": 7,
+            "TEXCOORD_0": 8
+          },
+          "indices": 9,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "name": "RootNode (gltf orientation matrix)",
+      "rotation": [
+        -0.70710678118654746,
+        -0,
+        -0,
+        0.70710678118654757
+      ]
+    },
+    {
+      "children": [
+        2
+      ],
+      "name": "RootNode (model correction matrix)"
+    },
+    {
+      "children": [
+        3
+      ],
+      "matrix": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        -1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
+      "name": "sofa_orange.FBX"
+    },
+    {
+      "children": [
+        4,
+        7
+      ],
+      "name": "RootNode"
+    },
+    {
+      "children": [
+        5
+      ],
+      "matrix": [
+        5.742536675385762e-09,
+        0.13137392699718464,
+        0,
+        0,
+        0,
+        0,
+        -0.13137392699718475,
+        0,
+        -0.13137392699718464,
+        5.742536675385762e-09,
+        0,
+        0,
+        10.303507804870605,
+        -7.7647023542826916e-23,
+        -0.086647674441337585,
+        1
+      ],
+      "name": "Box011"
+    },
+    {
+      "children": [
+        6
+      ],
+      "matrix": [
+        1,
+        0,
+        -0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0.44188690185546875,
+        -4.4588127136230469,
+        -76.2530517578125,
+        1
+      ],
+      "name": ""
+    },
+    {
+      "mesh": 0,
+      "name": "Box011__cojinmueble modernoDefault_Fabric_FRONT_6912_0"
+    },
+    {
+      "children": [
+        8
+      ],
+      "matrix": [
+        2.5399999618530273,
+        0,
+        0,
+        0,
+        0,
+        5.6399328803925005e-16,
+        -2.5399999618530273,
+        0,
+        0,
+        2.5399999618530273,
+        5.6399328803925005e-16,
+        0,
+        -8.9089326858520508,
+        0,
+        -0.086654111742973328,
+        1
+      ],
+      "name": "Box013"
+    },
+    {
+      "children": [
+        9
+      ],
+      "matrix": [
+        1,
+        0,
+        -0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0.19797372817993164,
+        0,
+        1.260986328125,
+        1
+      ],
+      "name": ""
+    },
+    {
+      "mesh": 1,
+      "name": "Box013_Material #25_0"
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "OSG_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    },
+    {
+      "sampler": 0,
+      "source": 1
+    },
+    {
+      "sampler": 0,
+      "source": 2
+    },
+    {
+      "sampler": 0,
+      "source": 3
+    },
+    {
+      "sampler": 0,
+      "source": 4
+    },
+    {
+      "sampler": 0,
+      "source": 5
+    }
+  ]
+}
+
